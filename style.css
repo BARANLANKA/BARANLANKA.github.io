@@ -94,6 +94,16 @@ a {
     margin: 20px;
 }
 
+.startup {
+    padding: 100px;
+    padding-top:58px; 
+    padding-bottom:58px;
+}
+
+h6 {
+    color: #17BDC3;
+}
+
 footer {
     text-align: center;
 }
